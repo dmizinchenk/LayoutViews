@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LayoutViews</string>
+    <string name="header">Header</string>
+    <string name="news">\tLorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce velit velit, euismod sit amet auctor vitae, tristique in felis. Vestibulum ultrices feugiat dolor, consectetur hendrerit lectus auctor nec. Duis condimentum vulputate sodales. Etiam condimentum, magna non viverra posuere, tortor eros suscipit arcu, vitae volutpat enim orci viverra massa. Maecenas ante libero, suscipit varius tortor eget, consequat maximus odio. Donec ante nisi, viverra posuere hendrerit vel, fermentum convallis mi. Pellentesque massa mauris, posuere a massa elementum, finibus commodo nunc. Etiam mollis tellus quis magna malesuada sagittis.</string>
+    <string name="my_toolbar">Toolbar</string>
+    <string name="sub_toolbar">Subtitle of toolbar</string>
+</resources>
